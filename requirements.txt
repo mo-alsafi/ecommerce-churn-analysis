@@ -6,4 +6,5 @@ seaborn
 sqlalchemy
 openpyxl
 pymysql
-pathlib
+dotenv
+missingno
