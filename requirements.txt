@@ -6,5 +6,5 @@ seaborn
 sqlalchemy
 openpyxl
 pymysql
-dotenv
+python-dotenv
 missingno

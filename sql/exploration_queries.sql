@@ -37,7 +37,7 @@ SELECT
 	CASE 
 		WHEN Complain = 1 THEN "Complained"
 		ELSE "Didn't Complain"
-	END AS Compelain_Status,
+	END AS Complain_Status,
     COUNT(*) as total_customers,
     SUM(Churn) AS churned_customers,
     ROUND(AVG(Churn) * 100, 2) AS Churn_rate
