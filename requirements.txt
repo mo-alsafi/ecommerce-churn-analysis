@@ -8,3 +8,6 @@ openpyxl
 pymysql
 python-dotenv
 missingno
+imblearn
+xgboost
+shap
